@@ -3,7 +3,7 @@ This is the implementation of 'Fast Estimating Pedestrian Crossing State Based o
 
 ## Note
 1. This repository include the model training and data loading code and trained model weights.
-2. AMO is well explained in the letter and easy to implement, we don't release code here and encourage discussion of new AMO alogrithm.
+2. AMO is well explained in the letter and very easy to implement, we don't release code here and encourage discussion of new AMO alogrithm.
 3. More details will be released after the decision of acceptence.
 
 ## File
