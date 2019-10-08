@@ -1,5 +1,5 @@
 # Single_Pose_CNC
-This is the implementation of **fast estimating pedestrian moving state based on single 2d body pose by shallow neural network**
+This is the implementation of **Estimating pedestrian moving state based on single 2d body pose**
 
 ## Note
 1. This repository include the model training and data loading code and trained model weights.
